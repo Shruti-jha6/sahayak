@@ -4,8 +4,8 @@ import './HomePage.css';
 function Home() {
   return (
     <div className="home-page">
-      <h1 className='welcome'>Welcome to Mental Health Support!</h1>
-      <p>
+      <h1 className='welcome'>Welcome to Antarangata ,<br/> where we support your mental peace!</h1>
+      <p className='para'>
         Mental health is important. If you're struggling, you're not alone. Here are some tips to help you cope:
       </p>
       <div className="tip">
